@@ -2,3 +2,15 @@ img {
     height: 500px;
     width: auto;
 }
+
+h1 {
+    text-align: center;
+}
+
+body {
+    background-color: rgba(223, 141, 94, 0.966);
+}
+
+a {
+    color: black;
+}
