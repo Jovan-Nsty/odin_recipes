@@ -14,3 +14,8 @@ body {
 a {
     color: black;
 }
+
+.pizzaImg {
+    height: 550px;
+    width: auto;
+}
